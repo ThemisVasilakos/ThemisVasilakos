@@ -2,15 +2,17 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 
+💫 About Me:
+💼 Working at Uni Systems S.M.S.A.
+🎓 Studying Informatics and Computer Engineering at Uniwa
+
+🌐 Socials:
 <div id="center">
   <a href="https://www.linkedin.com/in/themis-vasilakos-17761b228/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
 
----
-- :telescope: I’m working as a Software Engineer at Uni Systems S.M.S.A.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/themis-vasilakos-17761b228/)
 ---
 ### :hammer_and_wrench: Languages and Tools :
 <div>
