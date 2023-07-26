@@ -1,13 +1,34 @@
 # GitHubInfo
+
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+
+<div id="badges">
+  <a href="https://www.linkedin.com/in/themis-vasilakos-17761b228/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
 💫 About Me:
-💼 Working at AgileAdvisors.gr
-🎓 Studying to become a Software Engineer in UniWA
+💼 
+🎓 
 
 🌐 Where to find me:
 linkedin
 
 💻 I have worked with:
-C# C++ CSS3 HTML5 Java JavaScript PHP Python TypeScript Firebase .Net Anaconda Express.js FastAPI NPM Next JS NodeJS UNITY ANDROID React React Native React Router MariaDB MySQL Adobe Photoshop Pandas Postman Trello Arduino
 
 📊 GitHub Stats:
 
