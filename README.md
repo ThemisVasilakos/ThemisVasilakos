@@ -9,7 +9,7 @@
 
   💼 Working at Uni Systems S.M.S.A.
   
-  🎓 Studying Informatics and Computer Engineering at Uniwa
+  🎓 ΜΕng Informatics and Computer Engineering at Uniwa
   
 ---
 
