@@ -7,7 +7,7 @@
 
 💫 About Me:
 
-  💼 Working at Uni Systems S.M.S.A.
+  💼 Working at [Uni Systems S.M.S.A.](https://www.unisystems.com/)
   
   🎓 ΜΕng Informatics and Computer Engineering at Uniwa
   
