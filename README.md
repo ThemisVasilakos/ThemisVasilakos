@@ -9,7 +9,7 @@
 
   💼 Working at [Uni Systems S.M.S.A.](https://www.unisystems.com/)
   
-  🎓 ΜΕng Informatics and Computer Engineering at [UNIWA](https://ice.uniwa.gr/en/home/)
+  🎓 ΜΕng in Informatics and Computer Engineering at [UNIWA](https://ice.uniwa.gr/en/home/)
   
 ---
 
